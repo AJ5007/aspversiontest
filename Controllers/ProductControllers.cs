@@ -1,7 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-
 using aspversiontest.Data;
-
 using aspversiontest.Models;
 
  
